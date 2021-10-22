@@ -1,0 +1,118 @@
+@media screen and (max-width: 1200px) {
+
+}
+
+@media screen and (max-width: 992px) {
+
+
+
+    .container {
+        width: 750px;
+    }
+
+    .video-img {
+        width: 100%;
+    }
+
+    .col-4 {
+        width: 50%;
+    }
+
+    .features-col {
+        width: 100%;
+        margin-top: 130px;
+    }
+
+    .features-item {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 650px;
+    }
+
+    .Technology-COL {
+        width: 100%;
+    }
+
+    .Technology-content {
+        margin-bottom: 20px;
+    }
+
+    .features-item {
+        margin-bottom: 20px;
+    }
+
+    .slider-COL {
+        width: 100%;
+    }
+
+    .contact-form {
+        width: 330px;
+    }
+
+    .contact-input-text {
+        width: 100%;
+    }
+
+    .first-name {
+        margin-bottom: 20px;
+    }
+
+    .col-4 {
+        width: 100%;
+    }
+
+    .features-item {
+        margin-bottom: 130px;
+    }
+
+    .features-col {
+        margin-top: 0;
+    }
+
+    .features {
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .container {
+        width: 480px;
+    }
+
+    .col-6, .col-4, .col-3 {
+        width: 100%;
+    }
+
+    .video-item-1 {
+        margin-bottom: 20px;
+    }
+
+    .features-item {
+        margin-bottom: 130px;
+    }
+
+    .features-col {
+        margin-top: 0;
+    }
+
+    .features {
+        margin-bottom: 50px;
+    }
+
+    .slider-icons {
+        margin-bottom: 20px;
+    }
+
+    .contact-text {
+        margin-bottom: 30px;
+    }
+
+    .footer-item {
+        margin-bottom: 30px;
+    }
+}
+
